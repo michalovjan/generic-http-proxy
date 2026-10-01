@@ -1,3 +1,7 @@
+/*
+ * SPDX-FileCopyrightText: Copyright © 2026 Red Hat, Inc.
+ * SPDX-License-Identifier: Apache-2.0
+ */
 package org.jboss.pnc.proxy.handler;
 
 import java.io.File;
